@@ -1,11 +1,24 @@
-body {
+/* body {
     background-image: url(../img/green.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
 .title {
     text-align: center;
     font-weight: 900;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    border: 10px;
+    padding: 25px;
+    margin: 0 200px;
+}
+
+.question-container{
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.box {
+    margin: 0 200px;
 }
