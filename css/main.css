@@ -1,24 +1,22 @@
-/* body {
-    background-image: url(../img/green.jpg);
+body {
+    background-image: url(../img/a48c5c6d31119800605ef0de228e4631.png);
     background-repeat: no-repeat;
     background-size: cover;
-} */
-
-.title {
-    text-align: center;
-    font-weight: 900;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: aqua;
-    border: 10px;
-    padding: 25px;
-    margin: 0 200px;
+    background-attachment: fixed;
 }
+ .heading {
+     text-align: center;
+ }
 
 .question-container{
-    background-color: lightgrey;
+    background-color: rgb(255, 255, 255);
     text-align: center;
+    margin: 10px;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
 }
 
 .box {
     margin: 0 200px;
 }
+
