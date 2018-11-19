@@ -15,7 +15,7 @@
             </div>
         </div>
 
-        <section id="quiz-q&a">
+        <section id="quiz-q-a">
             <div class="box">
                 <div class="question-container">
                     <div class="question-1">
@@ -23,16 +23,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">1954
+                                    <input type="radio" name="q1-answers" id="1" value="1">1954
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">1949
+                                    <input type="radio" name="q1-answers" id="2" value="2">1949
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">1960
+                                    <input type="radio" name="q1-answers" id="3" value="3">1960
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">1955
+                                    <input type="radio" name="q1-answers" id="4" value="4">1955
                                 </label>
                             </form> 
                         </div>
@@ -45,13 +45,13 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Jupiter
+                                    <input type="radio" name="q2-answers" id="1" value="1">Jupiter
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Neptune
+                                    <input type="radio" name="q2-answers" id="2" value="2">Neptune
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Earth
+                                    <input type="radio" name="q2-answers" id="3" value="3">Earth
                                 <label
-                                ><input type="radio" name="answer" id="4" value="4">Mars
+                                ><input type="radio" name="q2-answers" id="4" value="4">Mars
                                 </label>
                             </form>
                         </div>    
@@ -64,16 +64,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Red
+                                    <input type="radio" name="q3-answers" id="1" value="1">Red
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Blue
+                                    <input type="radio" name="q3-answers" id="2" value="2">Blue
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Yellow
+                                    <input type="radio" name="q3-answers" id="3" value="3">Yellow
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Green
+                                    <input type="radio" name="q3-answers" id="4" value="4">Green
                                 </label>
                             </form>
                         </div>    
@@ -86,16 +86,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">School
+                                    <input type="radio" name="q4-answers" id="1" value="1">School
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Herd
+                                    <input type="radio" name="q4-answers" id="2" value="2">Herd
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Pod
+                                    <input type="radio" name="q4-answers" id="3" value="3">Pod
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Pool
+                                    <input type="radio" name="q4-answers" id="4" value="4">Pool
                                 </label>
                             </form>
                         </div>    
@@ -108,16 +108,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Alexander Fleming
+                                    <input type="radio" name="q5-answers" id="1" value="1">Alexander Fleming
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Thomas Edison
+                                    <input type="radio" name="q5-answers" id="2" value="2">Thomas Edison
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Marie Curie
+                                    <input type="radio" name="q5-answers" id="3" value="3">Marie Curie
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">George Orwell
+                                    <input type="radio" name="q5-answers" id="4" value="4">George Orwell
                                 </label>
                             </form>
                         </div>    
@@ -130,16 +130,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">November 22 1962
+                                    <input type="radio" name="q6-answers" id="1" value="1">November 22 1962
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">November 22 1963
+                                    <input type="radio" name="q6-answers" id="2" value="2">November 22 1963
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">October 29 1964
+                                    <input type="radio" name="q6-answers" id="3" value="3">October 29 1964
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">November 24 1962
+                                    <input type="radio" name="q6-answers" id="4" value="4">November 24 1962
                                 </label>
                             </form>
                         </div>    
@@ -152,16 +152,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">10
+                                    <input type="radio" name="q7-answers" id="1" value="1">10
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">5
+                                    <input type="radio" name="q7-answers" id="2" value="2">5
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">12
+                                    <input type="radio" name="q7-answers" id="3" value="3">12
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">9
+                                    <input type="radio" name="q7-answers" id="4" value="4">9
                                 </label>
                             </form>
                         </div>    
@@ -174,16 +174,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">James Cameron
+                                    <input type="radio" name="q8-answers" id="1" value="1">James Cameron
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Walt Disney
+                                    <input type="radio" name="q8-answers" id="2" value="2">Walt Disney
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Katherine Hepburn
+                                    <input type="radio" name="q8-answers" id="3" value="3">Katherine Hepburn
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Steven Spielberg
+                                    <input type="radio" name="q8-answers" id="4" value="4">Steven Spielberg
                                 </label>
                             </form>
                         </div>
@@ -196,16 +196,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Dollar
+                                    <input type="radio" name="q9-answers" id="1" value="1">Dollar
                                 </label>
                                 <label
-                                ><input type="radio" name="answer" id="2" value="2">The Bhat<
+                                ><input type="radio" name="q9-answers" id="2" value="2">The Bhat<
                                     /label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Real
+                                    <input type="radio" name="q9-answers" id="3" value="3">Real
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Krona
+                                    <input type="radio" name="q9-answers" id="4" value="4">Krona
                                 </label>
                             </form>
                         </div>
@@ -218,16 +218,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Blue, green and blue
+                                    <input type="radio" name="q10-answers" id="1" value="1">Blue, green and blue
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Red, yellow and blue
+                                    <input type="radio" name="q10-answers" id="2" value="2">Red, yellow and blue
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Pink, purple and violet
+                                    <input type="radio" name="q10-answers" id="3" value="3">Pink, purple and violet
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Blue, red and green
+                                    <input type="radio" name="q10-answers" id="4" value="4">Blue, red and green
                                 </label>
                             </form>
                         </div>
@@ -240,16 +240,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Artist
+                                    <input type="radio" name="q11-answers" id="1" value="1">Artist
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Racecar driver
+                                    <input type="radio" name="q11-answers" id="2" value="2">Racecar driver
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Skydiving
+                                    <input type="radio" name="q11-answers" id="3" value="3">Skydiving
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Pottery
+                                    <input type="radio" name="q11-answers" id="4" value="4">Pottery
                                 </label>
                             </form>
                         </div>
@@ -262,16 +262,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">A farrier
+                                    <input type="radio" name="q12-answers" id="1" value="1">A farrier
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">A blacksmith
+                                    <input type="radio" name="q12-answers" id="2" value="2">A blacksmith
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">A builder
+                                    <input type="radio" name="q12-answers" id="3" value="3">A builder
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">A horseshoe maker
+                                    <input type="radio" name="q12-answers" id="4" value="4">A horseshoe maker
                                 </label>
                             </form>
                         </div>
@@ -284,16 +284,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Culloden
+                                    <input type="radio" name="q13-answers" id="1" value="1">Culloden
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Glasgow
+                                    <input type="radio" name="q13-answers" id="2" value="2">Glasgow
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Dictionary
+                                    <input type="radio" name="q13-answers" id="3" value="3">Dictionary
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Cube
+                                    <input type="radio" name="q13-answers" id="4" value="4">Cube
                                 </label>
                             </form>
                         </div>
@@ -306,16 +306,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">5000 km
+                                    <input type="radio" name="q14-answers" id="1" value="1">5000 km
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">100,000 miles
+                                    <input type="radio" name="q14-answers" id="2" value="2">100,000 miles
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">8,000 miles
+                                    <input type="radio" name="q14-answers" id="3" value="3">8,000 miles
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">250,000 miles
+                                    <input type="radio" name="q14-answers" id="4" value="4">250,000 miles
                                 </label>
                             </form>
                         </div>
@@ -328,16 +328,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Blue
+                                    <input type="radio" name="q15-answers" id="1" value="1">Blue
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Purple
+                                    <input type="radio" name="q15-answers" id="2" value="2">Purple
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Salmon
+                                    <input type="radio" name="q15-answers" id="3" value="3">Salmon
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Violet
+                                    <input type="radio" name="q15-answers" id="4" value="4">Violet
                                 </label>
                             </form>
                         </div>
@@ -350,16 +350,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Light bulbs
+                                    <input type="radio" name="q16-answers" id="1" value="1">Light bulbs
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Tulips
+                                    <input type="radio" name="q16-answers" id="2" value="2">Tulips
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Halogen bulbs
+                                    <input type="radio" name="q16-answers" id="3" value="3">Halogen bulbs
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Compact fluorescent bulbs
+                                    <input type="radio" name="q16-answers" id="4" value="4">Compact fluorescent bulbs
                                 </label>
                             </form>
                         </div>
@@ -372,16 +372,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">18th century
+                                    <input type="radio" name="q17-answers id="1" value="1">18th century
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">15th century
+                                    <input type="radio" name="q17-answers" id="2" value="2">15th century
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">7th century
+                                    <input type="radio" name="q17-answers" id="3" value="3">7th century
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">19th century
+                                    <input type="radio" name="q17-answers" id="4" value="4">19th century
                                 </label>
                             </form>
                         </div>
@@ -394,16 +394,15 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Bowling
+                                    <input type="radio" name="q18-answers" id="1" value="1">Bowling
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Cycling<
-                                        /label>
+                                    <input type="radio" name="q18-answers" id="2" value="2">Cycling</label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Figure Skating
+                                    <input type="radio" name="q18-answers" id="3" value="3">Figure Skating
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Dancing
+                                    <input type="radio" name="q18-answers" id="4" value="4">Dancing
                                 </label>
                             </form>
                         </div>
@@ -416,16 +415,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">Weightlifting, wrestling and boxing
+                                    <input type="radio" name="q19-answers" id="1" value="1">Weightlifting, wrestling and boxing
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">Tennis, shooting and hockey
+                                    <input type="radio" name="q19-answers" id="2" value="2">Tennis, shooting and hockey
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">Javelin, long jump and high jump
+                                    <input type="radio" name="q19-answers" id="3" value="3">Javelin, long jump and high jump
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">Swimming, cycling, running
+                                    <input type="radio" name="q19-answers" id="4" value="4">Swimming, cycling, running
                                 </label>
                             </form>
                         </div>
@@ -438,16 +437,16 @@
                         <div class="answers">
                             <form action="">
                                 <label>
-                                    <input type="radio" name="answer" id="1" value="1">A Russian space traveller
+                                    <input type="radio" name="q20-answers" id="1" value="1">A Russian space traveller
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="2" value="2">A German space traveller
+                                    <input type="radio" name="q20-answers" id="2" value="2">A German space traveller
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="3" value="3">A cosmopolitan magazine that went to space
+                                    <input type="radio" name="q20-answers" id="3" value="3">A cosmopolitan magazine that went to space
                                 </label>
                                 <label>
-                                    <input type="radio" name="answer" id="4" value="4">A South African space traveller
+                                    <input type="radio" name="q20-answers" id="4" value="4">A South African space traveller
                                 </label>
                             </form>
                         </div>
