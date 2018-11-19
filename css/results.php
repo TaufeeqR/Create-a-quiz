@@ -88,55 +88,55 @@ if ($answer10 == "2") { $total2 = $total2 + 1; $total3 = $total3 + 0; }
 if ($answer10 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
 if ($answer10 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer11 == "1") { $total1 = $total1 + 0; $totalD = $totalD + 0; }
-if ($answer11 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer11 == "C") { $totalC = $totalC + 0; $total1 = $total1 + 0; }
-if ($answer11 == "D") { $totalD = $totalD + 1; $total1 = $total1 + 0; }
+if ($answer11 == "1") { $total1 = $total1 + 0; $total4 = $total4 + 0; }
+if ($answer11 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer11 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer11 == "4") { $total4 = $total4 + 1; $total1 = $total1 + 0; }
 
-if ($answer12 == "1") { $total1 = $total1 + 1; $totalD = $totalD + 0; }
-if ($answer12 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer12 == "C") { $totalC = $totalC + 0; $total1 = $total1 + 0; }
-if ($answer12 == "D") { $totalD = $totalD + 0; $total1 = $total1 + 0; }
+if ($answer12 == "1") { $total1 = $total1 + 1; $total4 = $total4 + 0; }
+if ($answer12 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer12 == "3") { $total3 = $total3v+ 0; $total1 = $total1 + 0; }
+if ($answer12 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer13 == "1") { $total1 = $total1 + 0; $totalD = $totalD + 0; }
-if ($answer13 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer13 == "C") { $totalC = $totalC + 1; $total1 = $total1 + 0; }
-if ($answer13 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer13 == "1") { $total1 = $total1 + 0; $total4 = $total4 + 0; }
+if ($answer13 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer13 == "3") { $total3 = $total3 + 1; $total1 = $total1 + 0; }
+if ($answer13 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer14 == "A") { $totalA = $totalA + 0; $totalD = $totalD + 0; }
-if ($answer14 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer14 == "C") { $totalC = $totalC + 1; $totalA = $totalA + 0; }
-if ($answer14 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer14 == "1") { $total1 = $total1 + 0; $total4 = $total4 + 0; }
+if ($answer14 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer14 == "3") { $total3 = $total3 + 1; $total1 = $total1 + 0; }
+if ($answer14 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer15 == "A") { $totalA = $totalA + 1; $totalD = $totalD + 0; }
-if ($answer15 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer15 == "C") { $totalC = $totalC + 0; $totalA = $totalA + 0; }
-if ($answer15 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer15 == "1") { $total1 = $total1 + 1; $total4 = $total4 + 0; }
+if ($answer15 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer15 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer15 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer16 == "A") { $totalA = $totalA + 0; $totalD = $totalD + 0; }
-if ($answer16 == "B") { $totalB = $totalB + 1; $totalC = $totalC + 0; }
-if ($answer16 == "C") { $totalC = $totalC + 0; $totalA = $totalA + 0; }
-if ($answer16 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer16 == "1") { $total1 = $total1 + 0; $total4 = $total + 0; }
+if ($answer16 == "2") { $total2 = $total2 + 1; $total3 = $total3 + 0; }
+if ($answer16 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer16 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer17 == "A") { $totalA = $totalA + 1; $totalD = $totalD + 0; }
-if ($answer17 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer17 == "C") { $totalC = $totalC + 0; $totalA = $totalA + 0; }
-if ($answer17 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer17 == "1") { $total1 = $total1 + 1; $total4 = $total4 + 0; }
+if ($answer17 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer17 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer17 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer18 == "A") { $totalA = $totalA + 0; $totalD = $totalD + 0; }
-if ($answer18 == "B") { $totalB = $totalB + 1; $totalC = $totalC + 0; }
-if ($answer18 == "C") { $totalC = $totalC + 0; $totalA = $totalA + 0; }
-if ($answer18 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer18 == "1") { $total1 = $total1 + 0; $total4 = $total4 + 0; }
+if ($answer18 == "2") { $total2 = $total2 + 1; $total3 = $total3 + 0; }
+if ($answer18 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer18 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
-if ($answer19 == "A") { $totalA = $totalA + 0; $totalD = $totalD + 0; }
-if ($answer19 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer19 == "C") { $totalC = $totalC + 0; $totalA = $totalA + 0; }
-if ($answer19 == "D") { $totalD = $totalD + 1; $totalA = $totalA + 0; }
+if ($answer19 == "1") { $total1 = $total1 + 0; $total4 = $total4 + 0; }
+if ($answer19 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer19 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer19 == "4") { $total4 = $total4 + 1; $total1 = $total1 + 0; }
 
-if ($answer20 == "A") { $totalA = $totalA + 1; $totalD = $totalD + 0; }
-if ($answer20 == "B") { $totalB = $totalB + 0; $totalC = $totalC + 0; }
-if ($answer20 == "C") { $totalC = $totalC + 0; $totalA = $totalA + 0; }
-if ($answer20 == "D") { $totalD = $totalD + 0; $totalA = $totalA + 0; }
+if ($answer20 == "1") { $total1 = $total1 + 1; $total4 = $total4 + 0; }
+if ($answer20 == "2") { $total2 = $total2 + 0; $total3 = $total3 + 0; }
+if ($answer20 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
+if ($answer20 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
 
 ?>
