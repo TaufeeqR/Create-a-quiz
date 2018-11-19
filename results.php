@@ -139,6 +139,22 @@ if ($answer20 == "3") { $total3 = $total3 + 0; $total1 = $total1 + 0; }
 if ($answer20 == "4") { $total4 = $total4 + 0; $total1 = $total1 + 0; }
 
 
+
+
+if ($total1 > $total2 && $total1 > $total3 && $total1 > $total4) {
+      echo 'Great job';
+}
+elseif ($total2 > $total1 && $total2 > $total3 && $total2 > $total4) {
+      echo 'Good job';
+}
+elseif ($total3 > $total1 && $total3 > $total2 && $total3 > $total4) {
+      echo 'You can do better';
+}
+elseif ($total4 > $total1 && $total4 > $total2 && $total4 > $total3) {
+      echo 'You need to read more lol....';
+}        
+
+
 ?>
 
 
