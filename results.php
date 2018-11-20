@@ -54,9 +54,49 @@ $answer20 = $_POST['q20-answers'];
 
 $totalCorrect = 0;
 
+if ($answer1 == "4") { $totalCorrect++; }
 
+if ($answer2 == "1") { $totalCorrect++; }
 
+if ($answer3 == "2") { $totalCorrect++; }
 
+if ($answer4 == "3") { $totalCorrect++; }
+
+if ($answer5 == "1") { $totalCorrect++; }
+
+if ($answer6 == "2") { $totalCorrect++; }
+
+if ($answer7 == "3") { $totalCorrect++; }
+
+if ($answer8 == "2") { $totalCorrect++; }
+
+if ($answer9 == "3") { $totalCorrect++; }
+
+if ($answer10 == "2") { $totalCorrect++; }
+
+if ($answer11 == "4") { $totalCorrect++; }
+
+if ($answer12 == "1") { $totalCorrect++; }
+
+if ($answer13 == "3") { $totalCorrect++; }
+
+if ($answer14 == "3") { $totalCorrect++; }
+
+if ($answer15 == "1") { $totalCorrect++; }
+
+if ($answer16 == "2") { $totalCorrect++; }
+
+if ($answer17 == "1") { $totalCorrect++; }
+
+if ($answer18 == "2") { $totalCorrect++; }
+
+if ($answer19 == "4") { $totalCorrect++; }
+
+if ($answer20 == "1") { $totalCorrect++; }
+
+if ($answer5) { $totalCorrect++; }
+
+echo "$totalCorrect / 20 correct";
 ?>
 
 
