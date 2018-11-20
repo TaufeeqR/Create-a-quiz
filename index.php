@@ -9,12 +9,14 @@
         <script src="main.js"></script>
     </head>
     <body>
+    <!-- The container for the heading below -->
         <div class="container">
             <div class="heading">
                 <h1 class="title">Are You Worthy?</h1>
             </div>
         </div>
-
+<!-- THe heading container ends here -->
+<!-- Question sections starts here which contains all the questions and answers as radio checkboxes -->
         <section id="quiz-q-a">
             <div class="box">
             <form action="/results.php" method="post" id="quiz">
@@ -227,7 +229,7 @@
                         <h2>Q.18 What sport is the Keirin event associated with?</h2>
                         <div class="answers">                 
                             <input type="radio" name="q18-answers" id="1" value="1">Bowling
-                            <input type="radio" name="q18-answers" id="2" value="2">wrestling
+                            <input type="radio" name="q18-answers" id="2" value="2">Cycling
                             <input type="radio" name="q18-answers" id="3" value="3">Figure Skating
                             <input type="radio" name="q18-answers" id="4" value="4">Dancing
                         </div>
@@ -241,7 +243,7 @@
                             <input type="radio" name="q19-answers" id="1" value="1">Weightlifting, wrestling and boxing
                             <input type="radio" name="q19-answers" id="2" value="2">Tennis, shooting and hockey
                             <input type="radio" name="q19-answers" id="3" value="3">Javelin, long jump and high jump
-                            <input type="radio" name="q19-answers" id="4" value="4">Swimming, cycling, running
+                            <input type="radio" name="q19-answers" id="4" value="4">Swimming, cycling and running
                         </div>
                     </div>
                 </div>
