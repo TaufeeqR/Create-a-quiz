@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Results</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/results.css" />
     <script src="main.js"></script>
 </head>
 <body>
@@ -99,6 +99,8 @@ if ($answer5) { $totalCorrect++; }
 echo "$totalCorrect / 20 correct";
 ?>
 
+<a href="index.php">
+<img src="../img/try.png"></a>
 
 </body>
 </html>
