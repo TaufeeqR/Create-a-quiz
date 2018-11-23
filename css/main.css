@@ -1,21 +1,27 @@
+/* ------------- Styling for the main page ----------------- */
+
+/* Styling for the body below */
 body {
-    background-image: url(../img/planet.jpg);
+    background-image: url(../img/abstract-background-279.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
- .heading {
+
+/* Styling for the heading class(H1)  */
+.heading {
     text-align: center;
     color: rgb(255, 255, 255);
- }
+    font-size: 45px;
+}
 
 .question-container{
     background-color: black;
     margin: 10px;
-    opacity: 0.7;
-    filter: alpha(opacity=70);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
     padding: 2%;
     text-align: justify;
 }
@@ -33,6 +39,7 @@ body {
     margin-top: 20px;
 }
 
-/* .container-btn {
-    margin-left: 47%;
-} */
+h3 {
+    color: white;
+}
+
