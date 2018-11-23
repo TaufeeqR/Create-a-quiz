@@ -11,10 +11,11 @@ body {
 }
 
 /* Styling for the heading class(H1)  */
+
 .heading {
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 45px;
+    font-size: 40px;
 }
 
 .question-container{
@@ -26,6 +27,7 @@ body {
     text-align: justify;
 }
 
+/* Styling for the submit button */
 .button {
     background: #0066A2;
     color: white;
@@ -38,8 +40,25 @@ body {
     cursor: pointer;
     margin-top: 20px;
 }
-
+/* Styling for my h3 tags */
 h3 {
     color: white;
 }
 
+/* --------------Media Queries start here------------------ */
+
+@media (max-width: 360px) {
+    .title-1 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 760px) {
+    .title-1 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 35px;
+    }
+}

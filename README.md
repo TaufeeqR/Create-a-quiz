@@ -14,10 +14,10 @@ with 4 possible answers each where only one is correct...
 ## Software and Scripts used:
 
 ``` 
--Html
--Css
--Php
--Vs code(Visual Studio Code)
+-HTML
+-CSS
+-PHP
+-VS Code(Visual Studio Code)
 -Github
 ```
 
