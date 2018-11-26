@@ -18,13 +18,19 @@ body {
 }
 
 .counter {
+    position: relative;
+    top: 200px;
     grid-column: 2/3;
     text-align: center;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 /* --------------------- Media Queries below --------------------------- */
 @media (max-width:360px) {
+
+    .grid.grid-container {
+        display: none;
+    }
 
     .title-1 {
         text-align: center;
@@ -42,9 +48,16 @@ body {
         width: 45px;
         height: 45px;
     }
+    
+    .counter {
+        font-size: 15px;
+        grid-column: 1/4;
+        right: 90px;
+    }
 }
 
 @media (max-width:760px) {
+    
     img {
         width: auto;
         height: auto;
@@ -55,5 +68,9 @@ body {
         top: 50px;
         width: 45px;
         height: 45px;
+    }
+
+    .counter {
+        font-size: 20px;
     }
 }

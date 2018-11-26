@@ -242,7 +242,7 @@
         } 
     ?>
 
-    <div class="side-bar">
+    <div class="retake">
         <a href="index.php">
             <img class="image" src="../img/try.png">
         </a>
