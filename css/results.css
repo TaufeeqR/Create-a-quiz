@@ -1,3 +1,6 @@
+/* ---------Styling for the results page-------------- */
+
+/* STyling for the body below */
 body {
     background-image: url(../img/blue.png);
     background-repeat: no-repeat;
@@ -5,18 +8,20 @@ body {
     background-attachment: fixed;
 }
 
+/* Styling for the image class below */
 .image {
     height: 75px;
     width: 75px;
     grid-column: 1/2;
     margin-top: 15px;
 }
-
+/* Created a grid container class */
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
+/* Styling for the counter class(Score display) */
 .counter {
     position: relative;
     top: 200px;
