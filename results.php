@@ -13,12 +13,12 @@
     <?php
         $questions = array (
             1 => array (
-                'question' => 'Q.1  What year did Albert Einstein die?',
+                'question' => 'Q.1  From which of the nine named planets does the mineral tellurium get its name:',
                 'answers' => array (
-                    '1' => '1954',
-                    '2' => '1949',
-                    '3' => '1960',
-                    '4' => '1955'
+                    '1' => 'Uranus',
+                    '2' => 'Mercury',
+                    '3' => 'Venus',
+                    '4' => 'Earth'
                 ),
                 'correctAnswer' => '4'
             ),
@@ -43,62 +43,62 @@
                 'correctAnswer' => '2'
             ),
             4 => array(
-                'question' => 'Q.4  What are a group of Dolphins called?',
+                'question' => 'Q.4  How many hoops are used in a game of croquet?',
                 'answers' => array(
-                    '1' => 'School',
-                    '2' => 'Herd',
-                    '3' => 'Pod',
-                    '4' => 'Pool'
+                    '1' => 'Eleven',
+                    '2' => 'Four',
+                    '3' => 'Six',
+                    '4' => 'Two'
                 ),
                 'correctAnswer' => '3'
             ),
             5 => array(
-                'question' => 'Q.5 Who discovered Penicillin?',
+                'question' => 'Q.5 What is the other name of Vitamin A?',
                 'answers' => array(
-                    '1' => 'Alexander Fleming',
-                    '2' => 'Thomas Edison',
-                    '3' => 'Marie Curie',
-                    '4' => 'George Orwell'
+                    '1' => 'Retinol',
+                    '2' => 'Thiamine',
+                    '3' => 'Niacin',
+                    '4' => 'Retinoids'
                 ),
                 'correctAnswer' => '1'
             ),
             6 => array(
-                'question' => 'Q.6 What date was President John F Kennedy assassinated?',
+                'question' => 'Q.6 From which language is the word ‘ketchup’ derived?',
                 'answers' => array(
-                    '1' => 'November 22 1962',
-                    '2' => 'November 22 1963',
-                    '3' => 'October 29 1964',
-                    '4' => 'November 24 1962'
+                    '1' => 'Spanish',
+                    '2' => 'Chinese',
+                    '3' => 'Japanese',
+                    '4' => 'Portuguese'
                 ),
                 'correctAnswer' => '2'
             ),
             7 => array(
-                'question' => 'Q.7 How many men have walked on the moon?',
+                'question' => 'Q.7 What type of creature lives in an apiary?',
                 'answers' => array(
-                    '1' => '10',
-                    '2' => '5',
-                    '3' => '12',
-                    '4' => '9'
+                    '1' => 'A bird',
+                    '2' => 'A Reptile',
+                    '3' => 'A Bee',
+                    '4' => 'A Frog'
                 ),
                 'correctAnswer' => '3'
             ),
             8 => array(
-                'question' => 'Q.8 Who has won the most Academy Awards?',
+                'question' => 'Q.8  What would you do with a “wandering sailor”?',
                 'answers' => array(
-                    '1' => 'James Cameron',
-                    '2' => 'Walt Disney',
-                    '3' => 'Katherine Hepburn',
-                    '4' => 'Steven Spielberg'
+                    '1' => 'Nothing',
+                    '2' => 'Plant it',
+                    '3' => 'Provide assistance',
+                    '4' => 'Report to local authority'
                 ),
                 'correctAnswer' => '2'
             ),
             9 => array(
-                'question' => 'Q.9 What is the currency of Brazil?',
+                'question' => 'Q.9 What color of Ensign does the Merchant Navy fly?',
                 'answers' => array(
-                    '1' => 'Dollar',
-                    '2' => 'The Bhat',
-                    '3' => 'Real',
-                    '4' => 'Krona'
+                    '1' => 'Royal Blue',
+                    '2' => 'Green',
+                    '3' => 'Red',
+                    '4' => 'Navy blue'
                 ),
                 'correctAnswer' => '3'
             ),
@@ -110,7 +110,7 @@
                     '3' => 'Pink, purple and violet',
                     '4' => 'Blue, red and green'
                 ),
-                'correctAnswer' => '4'
+                'correctAnswer' => '1'
             ),
             11 => array(
                 'question' => 'Q.11 What is John Leach famous for making?',
@@ -162,7 +162,7 @@
                 ),
                 'correctAnswer' => '1'
             ),
-             16 => array(
+            16 => array(
                 'question' => 'Q.16 Which kind of bulbs were once exchanged as a form of currency?',
                 'answers' => array(
                     '1' => 'Light bulbs',
@@ -207,7 +207,7 @@
                 'answers' => array(
                     '1' => 'A Russian space traveller',
                     '2' => 'A German space traveller',
-                    '3' => 'A mmonkey that went to space',
+                    '3' => 'A monkey that went to space',
                     '4' => 'A South African space traveller'
                 ),
                 'correctAnswer' => '1'
