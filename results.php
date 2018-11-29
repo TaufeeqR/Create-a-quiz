@@ -110,7 +110,7 @@
                     '3' => 'Pink, purple and violet',
                     '4' => 'Blue, red and green'
                 ),
-                'correctAnswer' => '1'
+                'correctAnswer' => '4'
             ),
             11 => array(
                 'question' => 'Q.11 What is John Leach famous for making?',
