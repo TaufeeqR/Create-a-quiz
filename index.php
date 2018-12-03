@@ -226,7 +226,7 @@
         ?>
 <!-- Questions array ends here -->
 <!-- The form begins here -->
-        <form action="results.php" method="post" id="quiz">
+        <form action="results.php" method="post" id="quizzical">
             <?php foreach ($questions as $questionNo => $value){ ?>
                 <div class="main">
                     <h3 class="title"><?php echo $value['question']; ?></h3>

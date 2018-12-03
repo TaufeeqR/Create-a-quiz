@@ -24,6 +24,7 @@ with 4 possible answers each where only one is correct...
 2. Clone project repository to desktop
 3. Create virtual host using (Wamp/Lamp/etc)
 ..* Open wamp and add virtual host
+..* Download wamp if you don't have it -----> http://www.wampserver.com/en/
 ..* Name Virtualhost and copy index.php path to path section(located below Virtualhost name)
 ..* Create virtual host and refresh wamp
 ..* Open the virtual host you just created
